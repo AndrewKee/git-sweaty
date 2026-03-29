@@ -20564,5 +20564,31 @@
     "start_date_local": "2026-03-27T14:37:13Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 10061.0,
+    "elevation_gain": 496.0,
+    "id": "17892422167",
+    "moving_time": 4270.0,
+    "name": "Corner Canyon",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-03-28T10:49:03Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 6664.2,
+    "elevation_gain": 35.0,
+    "id": "17895658328",
+    "moving_time": 1368.0,
+    "name": "Steve\u2019s Birthday",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T18:49:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
