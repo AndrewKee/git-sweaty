@@ -20638,9 +20638,22 @@
     "moving_time": 588.0,
     "name": "Abs",
     "raw_activity_type": "Workout",
-    "raw_type": "WeightTraining",
+    "raw_type": "Workout",
     "start_date_local": "2026-03-31T20:25:40Z",
-    "type": "WeightTraining",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17945424868",
+    "moving_time": 618.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T21:18:39Z",
+    "type": "Workout",
     "year": 2026
   }
 ]
