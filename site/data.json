@@ -11122,6 +11122,13 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 18,
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24300,6 +24307,15 @@
           "distance": 22001.6,
           "elevation_gain": 1070.0,
           "moving_time": 10347.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17956960153"
+          ],
+          "count": 1,
+          "distance": 11611.2,
+          "elevation_gain": 489.0,
+          "moving_time": 4691.0
         }
       },
       "NordicSki": {
@@ -24889,7 +24905,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T16:04:51.208100+00:00",
+  "generated_at": "2026-04-03T15:43:34.081544+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",
