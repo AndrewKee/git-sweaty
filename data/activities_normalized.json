@@ -20668,5 +20668,18 @@
     "start_date_local": "2026-04-02T18:12:40Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 10745.7,
+    "elevation_gain": 559.0,
+    "id": "17980408518",
+    "moving_time": 4167.0,
+    "name": "Corner Canyon",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-04T12:29:35Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
