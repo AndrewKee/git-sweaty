@@ -20681,5 +20681,18 @@
     "start_date_local": "2026-04-04T12:29:35Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17994299376",
+    "moving_time": 1516.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-05T21:37:30Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
