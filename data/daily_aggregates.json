@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T15:54:49.645907+00:00",
+  "generated_at": "2026-04-07T16:13:21.283874+00:00",
   "years": {
     "2018": {
       "BackcountrySki": {
@@ -13283,6 +13283,15 @@
           "distance": 5726.5,
           "elevation_gain": 36.0,
           "moving_time": 1973.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18005505506"
+          ],
+          "count": 1,
+          "distance": 6018.6,
+          "elevation_gain": 38.0,
+          "moving_time": 1930.0
         }
       },
       "TrailRun": {
@@ -13641,6 +13650,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3716.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18007790555"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3490.0
         }
       },
       "Workout": {
