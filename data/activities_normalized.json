@@ -20720,5 +20720,31 @@
     "start_date_local": "2026-04-06T19:47:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 7177.7,
+    "elevation_gain": 726.0,
+    "id": "18021230279",
+    "moving_time": 4315.0,
+    "name": "Mt Wire",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-07T18:14:43Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18022102224",
+    "moving_time": 600.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-07T20:30:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
