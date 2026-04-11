@@ -20759,5 +20759,31 @@
     "start_date_local": "2026-04-08T22:17:07Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 11326.6,
+    "elevation_gain": 574.0,
+    "id": "18058650458",
+    "moving_time": 4605.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-10T14:17:30Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18060856969",
+    "moving_time": 880.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-10T21:34:37Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
