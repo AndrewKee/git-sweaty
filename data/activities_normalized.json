@@ -20811,5 +20811,31 @@
     "start_date_local": "2026-04-12T13:37:02Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18096369251",
+    "moving_time": 3271.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T14:09:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 7236.9,
+    "elevation_gain": 451.0,
+    "id": "18098250932",
+    "moving_time": 3436.0,
+    "name": "Mount Van Cott",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-13T16:58:44Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
