@@ -20837,5 +20837,18 @@
     "start_date_local": "2026-04-13T16:58:44Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 7058.2,
+    "elevation_gain": 799.0,
+    "id": "18112623809",
+    "moving_time": 5404.0,
+    "name": "Bells Canyon Ridge",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-14T17:08:06Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
