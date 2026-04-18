@@ -20863,5 +20863,31 @@
     "start_date_local": "2026-04-16T20:30:30Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18148721761",
+    "moving_time": 5033.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-17T11:26:16Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 4352.9,
+    "elevation_gain": 559.0,
+    "id": "18150047046",
+    "moving_time": 3026.0,
+    "name": "Grandeur",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-17T14:55:03Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
