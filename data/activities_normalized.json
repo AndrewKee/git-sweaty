@@ -20889,5 +20889,31 @@
     "start_date_local": "2026-04-17T14:55:03Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 16507.0,
+    "elevation_gain": 1101.0,
+    "id": "18163162729",
+    "moving_time": 7062.0,
+    "name": "Corner Canyon",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-18T11:36:25Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18165807235",
+    "moving_time": 3452.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-18T19:38:56Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
