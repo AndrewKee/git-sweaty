@@ -20954,5 +20954,18 @@
     "start_date_local": "2026-04-19T23:14:38Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 9583.7,
+    "elevation_gain": 499.0,
+    "id": "18190824297",
+    "moving_time": 4638.0,
+    "name": "Heughs Creek",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-20T16:01:53Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
