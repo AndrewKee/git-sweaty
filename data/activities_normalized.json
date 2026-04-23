@@ -20980,5 +20980,18 @@
     "start_date_local": "2026-04-21T17:42:47Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 8116.1,
+    "elevation_gain": 519.0,
+    "id": "18220175576",
+    "moving_time": 3850.0,
+    "name": "Parleys",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-22T18:41:50Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
