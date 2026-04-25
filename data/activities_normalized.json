@@ -20993,5 +20993,18 @@
     "start_date_local": "2026-04-22T18:41:50Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 11769.9,
+    "elevation_gain": 476.0,
+    "id": "18244653696",
+    "moving_time": 4643.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-24T15:38:11Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
