@@ -21006,5 +21006,31 @@
     "start_date_local": "2026-04-24T15:38:11Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 4110.0,
+    "elevation_gain": 511.0,
+    "id": "18258184312",
+    "moving_time": 2482.0,
+    "name": "Mineral Slabs",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-25T14:49:03Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18260259785",
+    "moving_time": 557.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-25T23:22:07Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
