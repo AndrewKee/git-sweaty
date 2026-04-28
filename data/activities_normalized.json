@@ -21045,5 +21045,31 @@
     "start_date_local": "2026-04-26T12:32:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 5102.0,
+    "elevation_gain": 572.0,
+    "id": "18285722918",
+    "moving_time": 3958.0,
+    "name": "Patsy Marley",
+    "raw_activity_type": "BackcountrySki",
+    "raw_type": "BackcountrySki",
+    "start_date_local": "2026-04-27T16:46:52Z",
+    "type": "BackcountrySki",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18287101120",
+    "moving_time": 828.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-27T22:00:07Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T16:45:36.421417+00:00",
+  "generated_at": "2026-04-28T16:57:00.286222+00:00",
   "years": {
     "2018": {
       "BackcountrySki": {
@@ -13071,6 +13071,15 @@
           "distance": 5754.0,
           "elevation_gain": 612.0,
           "moving_time": 4521.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18285722918"
+          ],
+          "count": 1,
+          "distance": 5102.0,
+          "elevation_gain": 572.0,
+          "moving_time": 3958.0
         }
       },
       "Hike": {
@@ -14023,6 +14032,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 557.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18287101120"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 828.0
         }
       }
     }
