@@ -21071,5 +21071,18 @@
     "start_date_local": "2026-04-27T22:00:07Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18300918462",
+    "moving_time": 772.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-28T20:54:50Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
