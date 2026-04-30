@@ -21084,5 +21084,31 @@
     "start_date_local": "2026-04-28T20:54:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 13308.4,
+    "elevation_gain": 628.0,
+    "id": "18313215525",
+    "moving_time": 5074.0,
+    "name": "Parleys",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-04-29T16:31:18Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18314437839",
+    "moving_time": 738.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-29T21:18:08Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
