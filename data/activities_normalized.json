@@ -21110,5 +21110,44 @@
     "start_date_local": "2026-04-29T21:18:08Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 16492.4,
+    "elevation_gain": 758.0,
+    "id": "18350079811",
+    "moving_time": 6421.0,
+    "name": "Whoa",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-02T09:40:58Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 3793.0,
+    "elevation_gain": 451.0,
+    "id": "18352808704",
+    "moving_time": 2377.0,
+    "name": "Mineral slabs",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-02T16:44:27Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18353953166",
+    "moving_time": 881.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-02T21:39:07Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
