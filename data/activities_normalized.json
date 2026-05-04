@@ -21149,5 +21149,18 @@
     "start_date_local": "2026-05-02T21:39:07Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 4854.0,
+    "elevation_gain": 549.0,
+    "id": "18364926313",
+    "moving_time": 3779.0,
+    "name": "Alta",
+    "raw_activity_type": "BackcountrySki",
+    "raw_type": "BackcountrySki",
+    "start_date_local": "2026-05-03T12:51:48Z",
+    "type": "BackcountrySki",
+    "year": 2026
   }
 ]
