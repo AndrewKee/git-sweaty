@@ -21162,5 +21162,18 @@
     "start_date_local": "2026-05-03T12:51:48Z",
     "type": "BackcountrySki",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18394142372",
+    "moving_time": 829.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-05T21:19:10Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
