@@ -21175,5 +21175,18 @@
     "start_date_local": "2026-05-05T21:19:10Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 8685.0,
+    "elevation_gain": 62.0,
+    "id": "18419458322",
+    "moving_time": 1256.0,
+    "name": "Round trip to Erica/Karls",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T18:07:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
