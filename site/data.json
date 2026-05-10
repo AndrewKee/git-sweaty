@@ -11409,6 +11409,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 3,
+      "subtype": "BackcountrySki",
+      "type": "BackcountrySki",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24500,6 +24507,15 @@
           "distance": 4854.0,
           "elevation_gain": 549.0,
           "moving_time": 3779.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18444127230"
+          ],
+          "count": 1,
+          "distance": 20299.0,
+          "elevation_gain": 2869.0,
+          "moving_time": 15564.0
         }
       },
       "Hike": {
@@ -25537,7 +25553,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:58:15.808826+00:00",
+  "generated_at": "2026-05-10T15:58:55.407583+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",

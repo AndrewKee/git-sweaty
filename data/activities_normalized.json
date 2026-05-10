@@ -21188,5 +21188,18 @@
     "start_date_local": "2026-05-07T18:07:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 20299.0,
+    "elevation_gain": 2869.0,
+    "id": "18444127230",
+    "moving_time": 15564.0,
+    "name": "Mount Rainier",
+    "raw_activity_type": "BackcountrySki",
+    "raw_type": "BackcountrySki",
+    "start_date_local": "2026-05-09T03:18:56Z",
+    "type": "BackcountrySki",
+    "year": 2026
   }
 ]
