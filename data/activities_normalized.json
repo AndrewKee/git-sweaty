@@ -21195,11 +21195,37 @@
     "elevation_gain": 2869.0,
     "id": "18444127230",
     "moving_time": 15564.0,
-    "name": "Mount Rainier",
+    "name": "Mount Rainier (Tahoma)",
     "raw_activity_type": "BackcountrySki",
     "raw_type": "BackcountrySki",
     "start_date_local": "2026-05-09T03:18:56Z",
     "type": "BackcountrySki",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 8435.7,
+    "elevation_gain": 455.0,
+    "id": "18458240080",
+    "moving_time": 5395.0,
+    "name": "Rampart Ridge",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-10T12:23:06Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 5930.0,
+    "elevation_gain": 290.0,
+    "id": "18458951359",
+    "moving_time": 4522.0,
+    "name": "Reflection Lakes",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-10T14:56:32Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]
