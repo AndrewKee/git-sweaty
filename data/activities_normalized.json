@@ -21240,5 +21240,18 @@
     "start_date_local": "2026-05-13T17:23:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 13386.9,
+    "elevation_gain": 615.0,
+    "id": "18510825441",
+    "moving_time": 4686.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-14T16:47:52Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
