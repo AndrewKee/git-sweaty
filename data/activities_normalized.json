@@ -21253,5 +21253,31 @@
     "start_date_local": "2026-05-14T16:47:52Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 12824.9,
+    "elevation_gain": 625.0,
+    "id": "18522709577",
+    "moving_time": 4596.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-15T16:44:54Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18524161845",
+    "moving_time": 746.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-15T22:45:06Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
