@@ -21305,5 +21305,31 @@
     "start_date_local": "2026-05-16T23:03:17Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 12782.7,
+    "elevation_gain": 1346.0,
+    "id": "18548512405",
+    "moving_time": 8957.0,
+    "name": "Neffs ridge",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-17T11:20:40Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18550365818",
+    "moving_time": 334.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-17T21:43:06Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
