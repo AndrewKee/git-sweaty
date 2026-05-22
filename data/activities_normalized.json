@@ -21357,5 +21357,31 @@
     "start_date_local": "2026-05-18T22:06:36Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 2367.0,
+    "elevation_gain": 5.0,
+    "id": "18602953266",
+    "moving_time": 3132.0,
+    "name": "Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-05-21T18:18:13Z",
+    "type": "Tennis",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18603890818",
+    "moving_time": 976.0,
+    "name": "Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-21T22:39:08Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
