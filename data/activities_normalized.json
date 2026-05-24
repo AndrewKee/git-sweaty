@@ -21383,5 +21383,31 @@
     "start_date_local": "2026-05-21T22:39:08Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 8501.9,
+    "elevation_gain": 413.0,
+    "id": "18614414849",
+    "moving_time": 3597.0,
+    "name": "Desolation",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-22T16:47:38Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18627575820",
+    "moving_time": 755.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-23T09:07:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
