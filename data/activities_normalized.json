@@ -21409,5 +21409,18 @@
     "start_date_local": "2026-05-23T09:07:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 15181.8,
+    "elevation_gain": 266.0,
+    "id": "18651385628",
+    "moving_time": 15386.0,
+    "name": "Peekaboo and spooky",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-24T12:15:24Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
