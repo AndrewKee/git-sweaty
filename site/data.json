@@ -11535,6 +11535,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 15,
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24963,6 +24970,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5833.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18683254837"
+          ],
+          "count": 1,
+          "distance": 1650.0,
+          "elevation_gain": 184.0,
+          "moving_time": 2360.0
         }
       },
       "Run": {
@@ -25819,7 +25835,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T18:01:43.584640+00:00",
+  "generated_at": "2026-05-28T18:15:55.057417+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",
