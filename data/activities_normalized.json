@@ -21461,5 +21461,31 @@
     "start_date_local": "2026-05-28T23:56:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 5739.2,
+    "elevation_gain": 35.0,
+    "id": "18705976420",
+    "moving_time": 1759.0,
+    "name": "Neighborhood Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T12:36:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 16270.3,
+    "elevation_gain": 643.0,
+    "id": "18708698566",
+    "moving_time": 6143.0,
+    "name": "Deer valley",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-29T16:51:36Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
