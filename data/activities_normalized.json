@@ -21513,5 +21513,18 @@
     "start_date_local": "2026-05-30T16:54:55Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 17012.0,
+    "elevation_gain": 1365.0,
+    "id": "18734738912",
+    "moving_time": 10256.0,
+    "name": "Mount Raymond",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-31T10:21:15Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
