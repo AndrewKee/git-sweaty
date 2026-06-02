@@ -21526,5 +21526,31 @@
     "start_date_local": "2026-05-31T10:21:15Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 7777.8,
+    "elevation_gain": 401.0,
+    "id": "18747711751",
+    "moving_time": 3188.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-01T14:21:26Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 7398.0,
+    "elevation_gain": 66.0,
+    "id": "18750151715",
+    "moving_time": 1315.0,
+    "name": "Glide kip practice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-01T19:11:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

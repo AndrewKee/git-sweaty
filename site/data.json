@@ -11591,6 +11591,20 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 14,
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24968,6 +24982,15 @@
           "distance": 10220.0,
           "elevation_gain": 500.0,
           "moving_time": 4149.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18747711751"
+          ],
+          "count": 1,
+          "distance": 7777.8,
+          "elevation_gain": 401.0,
+          "moving_time": 3188.0
         }
       },
       "NordicSki": {
@@ -25035,6 +25058,15 @@
           "distance": 8685.0,
           "elevation_gain": 62.0,
           "moving_time": 1256.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18750151715"
+          ],
+          "count": 1,
+          "distance": 7398.0,
+          "elevation_gain": 66.0,
+          "moving_time": 1315.0
         }
       },
       "RockClimbing": {
@@ -25947,7 +25979,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:56:59.477059+00:00",
+  "generated_at": "2026-06-02T18:44:24.261981+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",
