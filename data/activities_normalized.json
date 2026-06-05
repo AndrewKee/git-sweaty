@@ -21565,5 +21565,18 @@
     "start_date_local": "2026-06-02T20:07:13Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 6854.0,
+    "elevation_gain": 508.0,
+    "id": "18791141392",
+    "moving_time": 3710.0,
+    "name": "Parleys point",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-04T17:36:55Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
