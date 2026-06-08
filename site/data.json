@@ -11619,6 +11619,34 @@
       "subtype": "MountainBikeRide",
       "type": "MountainBikeRide",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 13,
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 11,
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 10,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 21,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25014,6 +25042,24 @@
           "distance": 6854.0,
           "elevation_gain": 508.0,
           "moving_time": 3710.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18802094011"
+          ],
+          "count": 1,
+          "distance": 16882.5,
+          "elevation_gain": 466.0,
+          "moving_time": 5243.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18815188423"
+          ],
+          "count": 1,
+          "distance": 16371.2,
+          "elevation_gain": 723.0,
+          "moving_time": 6112.0
         }
       },
       "NordicSki": {
@@ -25315,6 +25361,15 @@
           "distance": 17012.0,
           "elevation_gain": 1365.0,
           "moving_time": 10256.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18829672977"
+          ],
+          "count": 1,
+          "distance": 9367.0,
+          "elevation_gain": 1298.0,
+          "moving_time": 6087.0
         }
       },
       "Walk": {
@@ -25734,6 +25789,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4228.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18832108256"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2270.0
         }
       },
       "Workout": {
@@ -26011,7 +26075,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:22:08.344112+00:00",
+  "generated_at": "2026-06-08T17:59:36.459256+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",

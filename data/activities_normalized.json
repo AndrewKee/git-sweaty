@@ -21578,5 +21578,57 @@
     "start_date_local": "2026-06-04T17:36:55Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 16882.5,
+    "elevation_gain": 466.0,
+    "id": "18802094011",
+    "moving_time": 5243.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-05T13:55:54Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 16371.2,
+    "elevation_gain": 723.0,
+    "id": "18815188423",
+    "moving_time": 6112.0,
+    "name": "Park City",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-06T11:52:31Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 9367.0,
+    "elevation_gain": 1298.0,
+    "id": "18829672977",
+    "moving_time": 6087.0,
+    "name": "Storm Mountain",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-07T10:14:12Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18832108256",
+    "moving_time": 2270.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-07T21:26:34Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
