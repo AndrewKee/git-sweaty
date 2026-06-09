@@ -21630,5 +21630,18 @@
     "start_date_local": "2026-06-07T21:26:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 13132.2,
+    "elevation_gain": 760.0,
+    "id": "18843404831",
+    "moving_time": 5873.0,
+    "name": "Bear Trap",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-08T14:49:45Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
