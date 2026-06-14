@@ -21682,5 +21682,18 @@
     "start_date_local": "2026-06-12T18:17:41Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 12133.7,
+    "elevation_gain": 682.0,
+    "id": "18908503502",
+    "moving_time": 5151.0,
+    "name": "Honeycomb",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-13T12:17:28Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
