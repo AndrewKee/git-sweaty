@@ -21695,5 +21695,31 @@
     "start_date_local": "2026-06-13T12:17:28Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 9874.0,
+    "elevation_gain": 579.0,
+    "id": "18922811758",
+    "moving_time": 4978.0,
+    "name": "Desolation / thaynes",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-14T13:47:56Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 1721.5,
+    "elevation_gain": 15.0,
+    "id": "18924425773",
+    "moving_time": 357.0,
+    "name": "Ballot drop off",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T20:50:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
