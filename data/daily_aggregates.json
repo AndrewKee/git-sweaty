@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:07:45.358946+00:00",
+  "generated_at": "2026-06-19T17:21:35.813621+00:00",
   "years": {
     "2018": {
       "BackcountrySki": {
@@ -13136,6 +13136,15 @@
           "distance": 15181.8,
           "elevation_gain": 266.0,
           "moving_time": 15386.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18979194878"
+          ],
+          "count": 1,
+          "distance": 5620.0,
+          "elevation_gain": 426.0,
+          "moving_time": 5792.0
         }
       },
       "IceSkate": {
@@ -13793,6 +13802,15 @@
           "distance": 9874.0,
           "elevation_gain": 579.0,
           "moving_time": 4978.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18985098949"
+          ],
+          "count": 1,
+          "distance": 3792.0,
+          "elevation_gain": 444.0,
+          "moving_time": 2524.0
         }
       },
       "Walk": {
