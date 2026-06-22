@@ -21812,5 +21812,31 @@
     "start_date_local": "2026-06-20T09:06:30Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 13066.2,
+    "elevation_gain": 667.0,
+    "id": "19013973955",
+    "moving_time": 5936.0,
+    "name": "Silver Fork",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-21T09:33:54Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 1733.5,
+    "elevation_gain": 66.0,
+    "id": "19015554197",
+    "moving_time": 1021.0,
+    "name": "Brighton",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-21T13:47:33Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
