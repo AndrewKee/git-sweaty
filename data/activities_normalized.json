@@ -21838,5 +21838,31 @@
     "start_date_local": "2026-06-21T13:47:33Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 5339.2,
+    "elevation_gain": 600.0,
+    "id": "19028518904",
+    "moving_time": 3875.0,
+    "name": "Cardiff - Flagstaff",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-22T15:26:05Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19030304023",
+    "moving_time": 363.0,
+    "name": "Abs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T21:30:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
