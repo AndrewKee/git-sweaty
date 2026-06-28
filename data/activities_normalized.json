@@ -21903,5 +21903,18 @@
     "start_date_local": "2026-06-26T16:34:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 18408.9,
+    "elevation_gain": 856.0,
+    "id": "19089657090",
+    "moving_time": 7158.0,
+    "name": "Snowbird",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-27T10:57:40Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
