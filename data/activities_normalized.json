@@ -21929,5 +21929,18 @@
     "start_date_local": "2026-06-28T09:20:44Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 8641.0,
+    "elevation_gain": 330.0,
+    "id": "19116181023",
+    "moving_time": 3374.0,
+    "name": "Pipeline",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-29T14:58:24Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
