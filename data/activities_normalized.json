@@ -21994,5 +21994,31 @@
     "start_date_local": "2026-07-03T07:04:04Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 13130.3,
+    "elevation_gain": 749.0,
+    "id": "19169886983",
+    "moving_time": 5747.0,
+    "name": "Bear Trap",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-03T17:19:27Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19178167411",
+    "moving_time": 991.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-04T09:09:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
