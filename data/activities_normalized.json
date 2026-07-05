@@ -22020,5 +22020,31 @@
     "start_date_local": "2026-07-04T09:09:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 5732.0,
+    "elevation_gain": 35.0,
+    "id": "19179175450",
+    "moving_time": 1704.0,
+    "name": "Neighborhood ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-04T10:17:37Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 9872.9,
+    "elevation_gain": 675.0,
+    "id": "19181586761",
+    "moving_time": 5852.0,
+    "name": "Snowbird",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-04T13:48:23Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
