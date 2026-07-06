@@ -22046,5 +22046,18 @@
     "start_date_local": "2026-07-04T13:48:23Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 24851.0,
+    "elevation_gain": 1774.0,
+    "id": "19195468722",
+    "moving_time": 17835.0,
+    "name": "Nebo Traverse",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-05T08:37:37Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
