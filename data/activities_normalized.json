@@ -22085,5 +22085,18 @@
     "start_date_local": "2026-07-08T19:44:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 13272.0,
+    "elevation_gain": 833.0,
+    "id": "19271122950",
+    "moving_time": 7394.0,
+    "name": "Thaynes Peak",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-11T07:16:22Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
