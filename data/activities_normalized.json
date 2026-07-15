@@ -22098,5 +22098,31 @@
     "start_date_local": "2026-07-11T07:16:22Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 25509.2,
+    "elevation_gain": 1000.0,
+    "id": "19314972670",
+    "moving_time": 9207.0,
+    "name": "Tiger Mountain",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-14T10:58:12Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 10065.6,
+    "elevation_gain": 547.0,
+    "id": "19317944362",
+    "moving_time": 4712.0,
+    "name": "Chuckanut",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-14T18:38:45Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
