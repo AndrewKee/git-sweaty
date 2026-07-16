@@ -22124,5 +22124,31 @@
     "start_date_local": "2026-07-14T18:38:45Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 17202.2,
+    "elevation_gain": 608.0,
+    "id": "19328890337",
+    "moving_time": 6729.0,
+    "name": "Galbraith",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-15T11:23:50Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 11628.0,
+    "elevation_gain": 707.0,
+    "id": "19331366134",
+    "moving_time": 5944.0,
+    "name": "Inner Gorgeous",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-15T17:23:48Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
