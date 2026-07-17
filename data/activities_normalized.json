@@ -22150,5 +22150,31 @@
     "start_date_local": "2026-07-15T17:23:48Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 6344.2,
+    "elevation_gain": 38.0,
+    "id": "19343702781",
+    "moving_time": 2562.0,
+    "name": "Mount Seymour",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-16T11:54:25Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 17791.0,
+    "elevation_gain": 801.0,
+    "id": "19343707401",
+    "moving_time": 8261.0,
+    "name": "Mount Fromme",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-16T14:05:09Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
