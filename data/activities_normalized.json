@@ -22176,5 +22176,18 @@
     "start_date_local": "2026-07-16T14:05:09Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 22175.0,
+    "elevation_gain": 709.0,
+    "id": "19356512311",
+    "moving_time": 8060.0,
+    "name": "Diamond Head",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-17T14:00:10Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
