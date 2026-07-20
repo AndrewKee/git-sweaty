@@ -22189,5 +22189,31 @@
     "start_date_local": "2026-07-17T14:00:10Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 19864.8,
+    "elevation_gain": 991.0,
+    "id": "19383583552",
+    "moving_time": 10433.0,
+    "name": "Lunch Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-18T11:07:14Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 17960.2,
+    "elevation_gain": 663.0,
+    "id": "19383583439",
+    "moving_time": 8555.0,
+    "name": "Alice Lake",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-19T11:55:15Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
