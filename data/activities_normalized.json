@@ -22196,7 +22196,7 @@
     "elevation_gain": 991.0,
     "id": "19383583552",
     "moving_time": 10433.0,
-    "name": "Lunch Mountain Bike Ride",
+    "name": "Alice Lake",
     "raw_activity_type": "Ride",
     "raw_type": "MountainBikeRide",
     "start_date_local": "2026-07-18T11:07:14Z",
@@ -22213,6 +22213,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "MountainBikeRide",
     "start_date_local": "2026-07-19T11:55:15Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7892.1,
+    "elevation_gain": 221.0,
+    "id": "19391619701",
+    "moving_time": 3669.0,
+    "name": "Squamish",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-19T17:50:07Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 28224.0,
+    "elevation_gain": 1305.0,
+    "id": "19395705142",
+    "moving_time": 14746.0,
+    "name": "Lord of the squirrels",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-20T10:36:21Z",
     "type": "MountainBikeRide",
     "year": 2026
   }
