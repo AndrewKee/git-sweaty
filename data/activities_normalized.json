@@ -22222,7 +22222,7 @@
     "elevation_gain": 221.0,
     "id": "19391619701",
     "moving_time": 3669.0,
-    "name": "Squamish",
+    "name": "Somewhere over There",
     "raw_activity_type": "Ride",
     "raw_type": "MountainBikeRide",
     "start_date_local": "2026-07-19T17:50:07Z",
@@ -22239,6 +22239,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "MountainBikeRide",
     "start_date_local": "2026-07-20T10:36:21Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 18531.1,
+    "elevation_gain": 852.0,
+    "id": "19410792443",
+    "moving_time": 9151.0,
+    "name": "Mount Fromme",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-21T12:59:36Z",
     "type": "MountainBikeRide",
     "year": 2026
   }
