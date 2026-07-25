@@ -22254,5 +22254,18 @@
     "start_date_local": "2026-07-21T12:59:36Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19452784410",
+    "moving_time": 4028.0,
+    "name": "Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-24T18:55:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
