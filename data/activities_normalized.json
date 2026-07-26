@@ -22267,5 +22267,18 @@
     "start_date_local": "2026-07-24T18:55:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 13176.2,
+    "elevation_gain": 656.0,
+    "id": "19463710346",
+    "moving_time": 6260.0,
+    "name": "Silver Fork",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-07-25T11:10:13Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
