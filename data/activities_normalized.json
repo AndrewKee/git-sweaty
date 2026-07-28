@@ -22280,5 +22280,18 @@
     "start_date_local": "2026-07-25T11:10:13Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 8054.0,
+    "elevation_gain": 381.0,
+    "id": "19491813022",
+    "moving_time": 3631.0,
+    "name": "Desolation",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-27T15:01:08Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
