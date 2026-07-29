@@ -22293,5 +22293,18 @@
     "start_date_local": "2026-07-27T15:01:08Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 3718.3,
+    "elevation_gain": 428.0,
+    "id": "19508710723",
+    "moving_time": 2278.0,
+    "name": "Mineral Slabs",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-28T18:09:22Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
