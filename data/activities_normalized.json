@@ -22319,5 +22319,18 @@
     "start_date_local": "2026-07-29T17:56:45Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 6287.0,
+    "elevation_gain": 821.0,
+    "id": "19549924384",
+    "moving_time": 4109.0,
+    "name": "Mineral to millstone",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-31T17:39:52Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

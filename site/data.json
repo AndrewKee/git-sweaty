@@ -12018,6 +12018,13 @@
       "subtype": "MountainBikeRide",
       "type": "MountainBikeRide",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 17,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26044,6 +26051,15 @@
           "distance": 3718.3,
           "elevation_gain": 428.0,
           "moving_time": 2278.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19549924384"
+          ],
+          "count": 1,
+          "distance": 6287.0,
+          "elevation_gain": 821.0,
+          "moving_time": 4109.0
         }
       },
       "Walk": {
@@ -26875,7 +26891,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:48:33.529538+00:00",
+  "generated_at": "2026-08-01T16:04:17.404451+00:00",
   "other_bucket": "OtherSports",
   "repo": "AndrewKee/git-sweaty",
   "source": "strava",
