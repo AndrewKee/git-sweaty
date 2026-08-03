@@ -22345,5 +22345,18 @@
     "start_date_local": "2026-08-01T14:17:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 15643.0,
+    "elevation_gain": 1781.0,
+    "id": "19575074896",
+    "moving_time": 11205.0,
+    "name": "Twin Peaks via Stairs Gulch",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-02T07:59:45Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
