@@ -22384,5 +22384,18 @@
     "start_date_local": "2026-08-06T18:34:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 9493.6,
+    "elevation_gain": 602.0,
+    "id": "19646881314",
+    "moving_time": 5060.0,
+    "name": "Brighton",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-07T15:42:15Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
