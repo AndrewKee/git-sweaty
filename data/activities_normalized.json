@@ -22397,5 +22397,18 @@
     "start_date_local": "2026-08-07T15:42:15Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5724.0,
+    "elevation_gain": 34.0,
+    "id": "19659930642",
+    "moving_time": 1824.0,
+    "name": "Neighborhood Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T14:31:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
